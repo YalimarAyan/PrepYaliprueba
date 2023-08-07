@@ -1,2 +1,1 @@
-# PrepYaliprueba
-prepcourse henry, prueba 
+Este es la prueba oficial de como crear un repositorio y clornarlo desde github a mi computadora.
